@@ -1,0 +1,20 @@
+# Core web framework
+fastapi>=0.104.1
+uvicorn>=0.24.0
+
+# PDF processing
+pypdf>=3.17.4
+
+# UI framework
+streamlit>=1.29.0
+
+# LLM integration
+openai>=1.40.0
+
+# Environment and utilities
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Sentence Transformers for embeddings
+sentence-transformers>=2.2.0
+python-multipart>=0.0.9
